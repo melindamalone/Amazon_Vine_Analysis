@@ -16,7 +16,7 @@
 
 -38% of Vine employees rated the pet products at 5-stars and 54% of non-Vine employees rated the pet products at 5-stars.
 
-![](Images/Vines_Reviews_Analysis.PNG)
+![](Images/Vine_Reviews_Analysis.PNG)
 
 ### Summary
 
