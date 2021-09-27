@@ -4,7 +4,7 @@
 
 ### Purpose
 
-##### The purpose of Module Sixteen and the Amazon Vine Analysis is to introduce Big Data using Google Colab, PySpark, AWS RDS, and AWS Simple Storage Service (S3) in a PostgreSQL database to analyze Amazon customer reviews.  For this analysis, the Amazon product category of Pet Products will be analyzed to determine if positivity bias exists when Amazon Vine members, who are provided these products and required to publish a review, review the products.
+The purpose of Module Sixteen and the Amazon Vine Analysis is to introduce Big Data using Google Colab, PySpark, AWS RDS, and AWS Simple Storage Service (S3) in a PostgreSQL database to analyze Amazon customer reviews.  For this analysis, the Amazon product category of Pet Products will be analyzed to determine if positivity bias exists when Amazon Vine members, who are provided these products and required to publish a review, review the products.
 
 ![](Images/Total_Vine_Reviews_DF.PNG)
 
